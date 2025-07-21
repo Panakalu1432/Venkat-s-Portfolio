@@ -19,6 +19,27 @@
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
   }
+  ,{
+    "title": "JavaScript",
+    "imageSrc": "skills/Js.png"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrap.jpg"
+  },
+  {
+    "title": "Express.js",
+    "imageSrc": "skills/express.png"
+  }
+
  
 ]

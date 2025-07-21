@@ -1,25 +1,25 @@
 [
   {
-    "title": "Project A",
+    "title": "To-Do List",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "A To-Do List App allows users to organize their daily tasks by creating, updating, and deleting to-do items. Tasks can be marked as complete or incomplete, and may include additional features like due dates, priority levels, and categories.",
+    "skills": ["React", "Express", "Node","MySQL"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
+    "title": "Student Management System",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "description": "A Student Management System helps institutions manage student data, including registration, course enrollment, attendance, grades, and reports. Admins or teachers can update records, and students may view or edit their profiles.",
+    "skills": ["React","JavaScript", "Express", "Node", "MongoDB"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
+    "title": "User Registration and Login System",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "A User Registration and Login System enables users to sign up, log in, and access protected areas of an app. It includes features such as password encryption, session handling, and forgot-password functionality.",
+    "skills": ["React", "Express","JavaScript", "Node","MongoDB"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }
